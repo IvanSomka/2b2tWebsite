@@ -361,7 +361,7 @@ Withers have been used to grief spawn on a regular basis since 2013. Withers usu
      <script id="jsbin-javascript">
 const backgrounds = [
   'url(https://art.pixilart.com/3fc5568d7c3621c.png)',
-  'url(https://static.planetminecraft.com/files/image/minecraft/texture-pack/2022/509/16310418-gold-block-scaled-x-pngcrushed-scaled-x-pngcrushed_xl.webp)',
+  'url(https://kartinki.pics/uploads/posts/2021-07/1626780651_8-kartinkin-com-p-tekstura-duba-mainkraft-krasivo-9.png)',
 
 ];
 
